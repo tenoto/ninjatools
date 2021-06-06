@@ -1,0 +1,15 @@
+infile: 'data/210511/fluorescent_screen/20210512_HIMAC_BeamProfile_10spill_rot-m1.7deg_rect-1891pix_crop.jpg'
+gaussian_filter_sigma: 10
+title: 'HIMAC beam test 20210512 10-spill'
+fill_value: 255
+fill_edge: 250
+center_x: 945
+center_y: 945
+fit_mean: 70
+fit_sigma: 10
+fit_N: 50000
+fit_bins: 35
+wide_wid_x: 50 # mm
+wide_wid_y: 40 # mm
+center_wid_x: 10 # mm
+center_wid_y: 10 # mm
